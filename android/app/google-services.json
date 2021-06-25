@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "250886465318",
+    "firebase_url": "https://enrapp-fe73c-default-rtdb.firebaseio.com",
+    "project_id": "enrapp-fe73c",
+    "storage_bucket": "enrapp-fe73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250886465318:android:107d1338b3b5524ecbc3e7",
+        "android_client_info": {
+          "package_name": "com.mallstaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250886465318-jr34r8a7d8qkul1g6sgm93jptgk4k2n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDx88WmysZ3iV6sklgXUyNSf1o2ooGkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250886465318-jr34r8a7d8qkul1g6sgm93jptgk4k2n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250886465318:android:0e11bcd6c5674811cbc3e7",
+        "android_client_info": {
+          "package_name": "tops.technologies.enr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250886465318-jr34r8a7d8qkul1g6sgm93jptgk4k2n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDx88WmysZ3iV6sklgXUyNSf1o2ooGkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250886465318-jr34r8a7d8qkul1g6sgm93jptgk4k2n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
